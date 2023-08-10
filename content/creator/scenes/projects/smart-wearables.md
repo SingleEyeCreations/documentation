@@ -104,15 +104,9 @@ The following fields can also optionally be included. These settings can also be
 
   - `category`: What wearable category to use. Possible values are:
 
-    - 'eyebrows'
-
-    - 'eyes'
-
     - 'facial_hair'
 
     - 'hair'
-
-    - 'mouth'
 
     - 'upper_body'
 
